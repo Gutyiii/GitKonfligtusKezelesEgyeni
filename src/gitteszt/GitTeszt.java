@@ -6,6 +6,8 @@ public class GitTeszt {
 
         String nev1;
         
+        String nev2;
+        
     }
 
 }
