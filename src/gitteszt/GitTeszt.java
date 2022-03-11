@@ -6,7 +6,7 @@ public class GitTeszt {
 
         String nev1 = "Kis Nagy Tibor";
         
-        String nev2;
+        String nev2 = "Sándor József Benedek";
         
     }
 
