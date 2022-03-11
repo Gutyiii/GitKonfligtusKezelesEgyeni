@@ -8,6 +8,7 @@ public class GitTeszt {
         
         String nev2 = "Sándor József Benedek";
         
+        String nev3;
     }
 
 }
